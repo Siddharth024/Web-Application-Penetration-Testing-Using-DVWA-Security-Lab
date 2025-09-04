@@ -1,0 +1,9 @@
+⚠️ Disclaimer: Educational purpose only. Do not test on systems you don’t own or have explicit permission for.
+
+---
+
+1. Payload Used:
+- <img src=x onerror=alert("XSS_Demo_Triggered")>
+
+2. What can also be used:
+- <script>alert('XSS')</script>
